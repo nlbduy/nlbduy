@@ -1,10 +1,5 @@
 # 👩‍💻 Nguyễn Lưu Bảo Duy
 
-**Data Analyst**
-
-Based in Ho Chi Minh City
-___
-
 ## 👋 About Me
 Hands-on experience in **Master Data Management** with SAP, I specialize in data validation, cleaning, and system operations. Now transitioning into **Data Analytics**, driven by a passion for transforming raw numbers into stories, my mission is to bring **critical thinking** and an **automation-first mindset** to deliver insights that matter.
 ___
@@ -35,11 +30,9 @@ ___
 - Machine Learning (Classification, Regression, Clustering)
 ___
 ## 🎓 Education
-University of Economics Ho Chi Minh City (UEH)			   
-
-Bachelor of International Business | 2018 - 2022	
-
-GPA 8.0 / 10
+- University of Economics Ho Chi Minh City (UEH)
+- Bachelor of International Business | 2018 - 2022
+- GPA 8.0 / 10
 
 ___
 ## 🏅 Certifications
