@@ -1,5 +1,11 @@
 # 👩‍💻 Nguyễn Lưu Bảo Duy
 
+[![Gmail](https://img.shields.io/badge/Email-D14836?&logo=gmail&logoColor=white)](mailto:nglbduy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenluubaoduy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?&logo=github&logoColor=white)](https://github.com/nlbduy)
+
+
+
 ## 👋 About Me
 Hands-on experience in **Master Data Management** with SAP, I specialize in data validation, cleaning, and system operations. Now transitioning into **Data Analytics**, driven by a passion for transforming raw numbers into stories, my mission is to bring **critical thinking** and an **automation-first mindset** to deliver insights that matter.
 ___
@@ -42,9 +48,9 @@ ___
 - **TOEIC – 875** (IIG), **IC3** (IIG)
 ___
 ## 🤝 Let's Connect
-💌 Email: [nglbduy@gmail.com](nglbduy@gmail.com)
+💌 Email: [nglbduy@gmail.com](mailto:nglbduy@gmail.com)
 
-🔗 LinkedIn: [Nguyễn Lưu Bảo Duy](www.linkedin.com/in/nguyenluubaoduy)
+🔗 LinkedIn: [Nguyễn Lưu Bảo Duy](https://www.linkedin.com/in/nguyenluubaoduy)
 
 🗂 Portfolio: [Nguyễn Lưu Bảo Duy](https://github.com/nlbduy)
 
