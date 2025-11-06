@@ -26,6 +26,9 @@ Customer analysis using AdventureWorks data to explore demographics, purchasing 
 
 ### 5️⃣ [E-Commerce-Customer-Segmentation-Analysis-Python](https://github.com/nlbduy/E-Commerce-Customer-Segmentation-Analysis-Python)
 This project analyzes e-commerce transactional data to evaluate business performance and segment customers using the RFM framework, identifying strategic groups to support personalized marketing, boost customer lifetime value, and optimize acquisition and retention efforts.
+
+### 6️⃣ [E-Commerce-Seller-Revenue-Growth-Strategy-Analysis-Python](https://github.com/nlbduy/E-Commerce-Seller-Revenue-Growth-Strategy-Analysis-Python)
+This project analyzes e-commerce transactional data to assess revenue performance across multiple business dimensions — including products, customers, channels, shipments, and regions — ultimately identifying the key factors that influence revenue growth and business efficiency.
 ___
 ## 🛠 Skills
 - SQL (CTE, Joins, Window Functions)
